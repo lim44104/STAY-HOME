@@ -179,6 +179,7 @@ function fetchData(country) {
         "Apr",
         "May",
         "Jun",
+        "Jul",
         "Aug",
         "Sep",
         "Oct",
@@ -189,7 +190,7 @@ function fetchData(country) {
     function formatDate(dateString) {
         let date = new Date(dateString);
     
-        return `${date.getDate()} ${monthsNames[date.getMonth() - 1]}`;
+        return `${date.getDate()} ${monthsNames[date.getMonth()]}`;
     }
 
 
