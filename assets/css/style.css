@@ -61,9 +61,6 @@ header{
     color: #6a149b;
 }
 /* -------- NAV -------- */
-nav{
-    
-}
 
 nav ul{
     display: flex;
@@ -225,12 +222,12 @@ main{
   
   /* Track */
   .country-list::-webkit-scrollbar-track {
-    background: #F3F2F2;
+    background: rgb(240, 233, 233);
   }
   
   /* Handle */
   .country-list::-webkit-scrollbar-thumb {
-    background: #F1F1F1;
+    background: rgb(139, 137, 137);
   }
   
   /* Handle on hover */
