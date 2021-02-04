@@ -267,26 +267,6 @@ li span{
     width: 20vw;
 }
 
-/* FOOTER CSS */
-
-.footer{
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-bottom: 20px;
-}
-
-.footerlinks a{
-    margin: 20px;
-    font-size: 16px;
-    font-weight: 600;
-    color: #000;
-}
-.footerlinks .mainlink{
-    color: #e0501b;
-}
-
 
 /* RESPONSIVE */
 
@@ -433,9 +413,7 @@ li p{
     width: 26vw;
 }
 
-.footer{
-    padding-bottom: 40px;
-}
+  
 
 
 
