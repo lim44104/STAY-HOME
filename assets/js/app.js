@@ -1,3 +1,10 @@
+if (window.location.protocol.indexOf('https') == 0){
+  var el = document.createElement('meta')
+  el.setAttribute('http-equiv', 'Content-Security-Policy')
+  el.setAttribute('content', 'upgrade-insecure-requests')
+  document.head.append(el)
+}
+
 //get all the elements
 const country_name_element = document.querySelector(".country .name");
 const total_cases_element = document.querySelector(".total-cases .value");
@@ -8,13 +15,6 @@ const deaths_element = document.querySelector(".deaths .value");
 const new_deaths_element = document.querySelector(".deaths .new-value");
 
 const ctx = document.getElementById("axes_line_chart").getContext("2d");
-
-if (window.location.protocol.indexOf('https') == 0){
-  var el = document.createElement('meta')
-  el.setAttribute('http-equiv', 'Content-Security-Policy')
-  el.setAttribute('content', 'upgrade-insecure-requests')
-  document.head.append(el)
-}
 
 //app variables
 let app_data = [],
