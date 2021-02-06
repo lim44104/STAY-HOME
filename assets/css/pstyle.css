@@ -10,41 +10,6 @@ html,body{
     text-decoration: none !important;
 }
 
-.nav{
-    position: fixed;
-    z-index: 1000;
-    top: 0;
-    right: 0;
-    left: 0;
-    height: 80px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 25px 0 25px;
-    background-color: #fff;
-    box-shadow: 0 19px 38px rgba(0,0,0,0.10);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-}
-
-.nav .links a{
-    margin-right: 25px;
-    font-size: 16px;
-    font-weight: 600;
-    color: #000;
-}
-
-.nav .links .mainlink{
-    color: #e0501b;
-}
-
-.nav h4{
-    font-size: 22px;
-    font-weight: bold;
-    margin-left: 25px;
-}
-
 /* LANDING CSS */
 
 .landing{
@@ -271,27 +236,7 @@ li span{
 /* RESPONSIVE */
 
 
-@media only screen and (max-width: 600px){
-
-.nav{
-    flex-direction: column;
-    justify-content: space-around;
-    padding: 20px;
-    height: auto;
-    overflow-y: hidden;
-}
-
-.nav h4{
-    font-size: 6vw;
-    margin-top: 10px;
-    margin-bottom: 14px;
-}
-
-.nav .links a{
-    margin-right: 25px;
-    font-size: 12px;
-    font-weight: 600;
-}
+@media only screen and (max-width: 1000px){
 
 
 /* LANDING PAGE */
