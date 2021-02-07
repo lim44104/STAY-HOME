@@ -194,6 +194,8 @@ function fetchData(country) {
         return `${date.getDate()} ${monthsNames[date.getMonth()]}`;
     }
 
+    
+
 
 
 

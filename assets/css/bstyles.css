@@ -6084,6 +6084,10 @@ a.close.disabled {
   background-color: #ffce63 !important;
 }
 
+.bg-index {
+  background-color: #fee8cd !important;
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
@@ -10245,5 +10249,20 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.animation-center{  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*height: 100vh;*/ /*if we only want this item to be smack center*/
+ }
+.loading-text{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    top: -50px;
+    position: relative;
+    font-style: italic;
 }
 

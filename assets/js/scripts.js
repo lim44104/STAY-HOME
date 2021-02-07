@@ -47,4 +47,8 @@
     });
   
   })(jQuery); // End of use strict
+
+  function myFunction(){
+    window.location.href = "home.html";
+  }
   
