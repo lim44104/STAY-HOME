@@ -52,8 +52,14 @@
         <!-- Contact Section-->
         <section class="page-section" id="contact">
           <div class="container">
+              <!--lottie-->
+              <div class="animation-center">
+                <div style="display:block;">
+                    <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_9wjm14ni.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px;"  loop  autoplay></lottie-player>
+                </div>
+              </div>
               <!-- Contact Section Heading-->
-              <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+              <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Us</h2>
               <!-- Icon Divider-->
               <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -94,6 +100,16 @@
                               </div>
                           </div>
                           <br />
+
+                          <div class="animation-center">
+                            <div style="display:block;">
+                              <div id="loading" style="display: none">
+                                <lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_ASKLIg.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px;"  loop  autoplay></lottie-player>
+                                <div>Sending Contact ... Please wait<br/></div>
+                              </div>
+                            </div>
+                          </div>
+
                           <div id="success"></div>
                           <div class="form-group"><button class="btn btn-primary btn-xl submit" id="sendMessageButton" type="submit">Send</button></div>
                           <div class="status" style="margin-top: 20px;"></div>
@@ -150,8 +166,10 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Third party plugin JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
         <!-- Core theme JS-->
         <script src="assets/js/scripts.js"></script>
+        <script src="assets/js/contact.js"></script>
         <script>
             $(document).ready(function (){
                 $('.submit').click(function (event){
