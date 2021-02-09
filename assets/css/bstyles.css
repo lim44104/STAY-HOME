@@ -10265,3 +10265,9 @@ form .row:first-child .floating-label-form-group {
     position: relative;
 }
 
+.bottomleft {
+  position:fixed;
+  bottom: 8px;
+  left: 8px;
+}
+
