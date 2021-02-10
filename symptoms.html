@@ -8,6 +8,7 @@
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <title>STAY HOME - SYMPTOMS</title>
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/image/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -60,12 +61,12 @@
             <div class="container">
                 <!--lottie-->
                 <div class="animation-center">
-                    <div style="display:block;">
+                    <div style="display:block;" data-aos="fade-down" data-aos-duration="2000">
                         <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_vPnn3K.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
                     </div>
                 </div>
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">Symptoms</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white" data-aos="fade-up" data-aos-duration="1000">Symptoms</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -73,7 +74,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- About Section Content-->
-                <div class="row">
+                <div class="row" data-aos="fade-up" data-aos-duration="1000">
                     <div class="ml-auto"><p class="lead" style="text-align: center;">People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. People with these symptoms may have COVID-19:</p></div>
                 </div>
             </div>
@@ -83,7 +84,7 @@
         <section class="page-section portfolio" id="portfolio">
           <div class="container">
               <!-- Portfolio Section Heading-->
-              <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Symptoms</h2>
+              <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0" data-aos="fade-up" data-aos-duration="1000">Symptoms</h2>
               <!-- Icon Divider-->
               <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -91,7 +92,7 @@
                   <div class="divider-custom-line"></div>
               </div>
               <!-- Portfolio Grid Items-->
-              <div class="row justify-content-center">
+              <div class="row justify-content-center" data-aos="fade-up" data-aos-duration="1000">
                   <!-- Portfolio Item 1-->
                   <div class="col-md-6 col-lg-4 mb-5">
                       <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
@@ -642,5 +643,9 @@
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
         <!-- Core theme JS-->
         <script src="assets/js/scripts.js"></script>
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <script>
+                AOS.init();
+        </script>
     </body>
 </html>
