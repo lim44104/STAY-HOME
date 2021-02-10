@@ -10257,6 +10257,11 @@ form .row:first-child .floating-label-form-group {
   /*height: 100vh;*/ /*if we only want this item to be smack center*/
  }
 
+.animation-left{  display: flex;
+  justify-content: left;
+  align-items: left;
+ }
+
 .loading-text{
     display: block;
     margin: 0 auto;
@@ -10295,4 +10300,5 @@ form .row:first-child .floating-label-form-group {
 ::-webkit-scrollbar-thumb:hover {
   background: #555; 
 }
+
 
