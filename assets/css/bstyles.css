@@ -10271,3 +10271,26 @@ form .row:first-child .floating-label-form-group {
   left: 8px;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 12px;
+	background-color: #F5F5F5;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	border-radius: 10px;
+	background-color: #F5F5F5; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+	background-color: rgb(131, 131, 131);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
