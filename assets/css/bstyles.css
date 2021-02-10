@@ -10274,8 +10274,8 @@ form .row:first-child .floating-label-form-group {
 
 .bottomleft {
   position:fixed;
-  bottom: 1px;
-  left: 1px;
+  bottom: 5px;
+  left: 5px;
 }
 
 /* width */
