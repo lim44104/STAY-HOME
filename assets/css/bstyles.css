@@ -6085,7 +6085,7 @@ a.close.disabled {
 }
 
 .bg-index {
-  background-color: #fee8cd !important;
+  background-color: #6c5f99 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10256,6 +10256,7 @@ form .row:first-child .floating-label-form-group {
   align-items: center;
   /*height: 100vh;*/ /*if we only want this item to be smack center*/
  }
+
 .loading-text{
     display: block;
     margin: 0 auto;
@@ -10263,6 +10264,7 @@ form .row:first-child .floating-label-form-group {
     color: white;
     top: -50px;
     position: relative;
+    font-family: 'Libre Baskerville', serif;
 }
 
 .bottomleft {
