@@ -125,26 +125,27 @@ Contact Form | Pass
  * Medical Team in homepage:
    * https://www.pinterest.com/pin/811914639059316577/
  * Animations:
-   * "contact us" icon at the bottom left of the page:
+   * "Contact Us" icon at the bottom left of the page:
      * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_eBcQGa.json
      * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets3.lottiefiles.com%2Fpackages%2Flf20_abrwmmjr.json
-   * Index.html (loading page):
-     * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets4.lottiefiles.com%2Fprivate_files%2Flf30_V7dVXe.json
+   * Index.html:
+     * Loading Page
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets4.lottiefiles.com%2Fprivate_files%2Flf30_V7dVXe.json
    * Home.html:
-     * Stay home 
+     * Stay Home 
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_AxmMba.json
      * What is COVID-19?
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets6.lottiefiles.com%2Fpackages%2Flf20_AQ3M8U.json
      * Donation
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets3.lottiefiles.com%2Fpackages%2Flf20_hkvojF.json
-     * Did you know?
+     * Did You Know?
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets4.lottiefiles.com%2Fpackages%2Flf20_BjW367.json
    * Symptoms.html:
      * Symptoms 
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets1.lottiefiles.com%2Fpackages%2Flf20_ErlWV1.json
      * Cough
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fpackages%2Flf20_dkljlzky.json
-     * Difficulty breathing 
+     * Difficulty Breathing 
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets9.lottiefiles.com%2Fpackages%2Flf20_BTOE9j.json
      * Fever
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_medwe7cs.json
@@ -156,18 +157,18 @@ Contact Form | Pass
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fprivate_files%2Flf30_Gds1YW.json
      * Diarrhea
        *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fprivate_files%2Flf30_jHV016.json
-     * loss of taste 
+     * Loss of Taste 
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fpackages%2Flf20_uJrFjo.json
      * Headache
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_5Gqhew.json
    * Prevention.html
-     *  Info section 
+     *  Information section 
         *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_nmx1GJ.json
-     * Wash your hands
+     * Wash Your Hands
        *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets1.lottiefiles.com%2Fprivate_files%2Flf30_tCHKkP.json  
-     * Wear a mask
+     * Wear a Mask
        *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets1.lottiefiles.com%2Fpackages%2Flf20_wih9yhar.json
-     * Avoid crowds
+     * Avoid Crowds
        *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_rjgggp7z.json
      * Banner
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets9.lottiefiles.com%2Fpackages%2Flf20_wv4mTG.json
@@ -176,7 +177,7 @@ Contact Form | Pass
    * Contact.html
      * Contact 
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fpackages%2Flf20_hsswbvtm.json
-     * Loading for “send” button
+     * Loading for “Send” Button
        * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets9.lottiefiles.com%2Fprivate_files%2Flf30_ASKLIg.json
 
 ### Acknowledgements
