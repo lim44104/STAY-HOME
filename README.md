@@ -3,9 +3,9 @@ This project is a website application with gamification concepts to let users kn
 
 ## Design Process
 
-This website will let users to understand the background of COVID-19. Users could know about the definition of COVID-19 and the first case of COVID-19. Users could get to know about the symptoms of COVID-19. And what are these symptoms look like. Users could learn to prevent themselves from COVID-19 with few simple steps. Users could know about the statistic from all country through a interactive chart. This project will be a useful and fun website application for users to know more about COVID-19.
+This website will let users understand the background of COVID-19. Users could know the definition of COVID-19 and the story behind the first case of COVID-19. Users could get to know about the symptoms of COVID-19. And what are these symptoms appear to be like. Users could learn to prevent themselves from COVID-19 with few simple steps. Users could know about the statistic from all countries through an interactive chart. This project will be a useful and fun website application for users to know more about COVID-19.
 
-* As a user, I want to get to know about the definition and details of COVID-19. I want to know about symptoms, prevention and statistic of COVID-19. This website allowed me to do so.
+* As a user, I want to get to know about the definition and details of COVID-19. I want to know about the symptoms, prevention , and statistic of COVID-19. This website allowed me to do so.
   
 ## Features
 ### Existing Features
@@ -13,13 +13,13 @@ This website will let users to understand the background of COVID-19. Users coul
 2. Allows user to  **know the first case of COVID-19**.
 3. Allows user to  **donate for those affected by COVID-19**.
 4. Allows user to  **know what are the symptoms of COVID-19**.
-5. Allows user to  **know the deatils of symptoms**.
+5. Allows user to  **know the details of the symptoms**.
 6. Allows user to  **know how to prevent COVID-19**.
-7. Allows user to  **know what is the importance of stay at home**.
-8. Allows user to  **know the statistic of all country**.
-9. Allows user to  **know the number of total cases, deaths and recovered**.
-10. Allows user to  **give feedback or give suggestion** to improve the website by fill in the contact form.
-11. Allows user to get the **social media account of WHO** such as facebook, instagram, twitter and official website by clicking the icon in footer.
+7. Allows user to  **know the importance to stay at home**.
+8. Allows user to  **know the statistic of all countries**.
+9. Allows user to  **know the number of deaths, recovered, and total cases**.
+10. Allows user to  **give feedbacks or suggestions** to improve the website by filling up the contact form.
+11. Allows user to get the **social media account of WHO** such as facebook, instagram, twitter and official website by clicking on the icon in footer.
 12. **Responsive Website** - The layout and photo will resize and change according to the users' screen size.
 13. **Collapsible Hamburger Mobile Menu**.
 14. **Validate Contact Form**
@@ -30,7 +30,7 @@ This website will let users to understand the background of COVID-19. Users coul
 
 ### Plans for additional features to be implemented in the future
 1. Allows user to create an account.
-2. Allows user to get the news of COVID-19.
+2. Allows user to get news of COVID-19.
 
 
 ## Technologies Used
@@ -52,9 +52,9 @@ This website will let users to understand the background of COVID-19. Users coul
 
 
 ## Testing
-1. The text size will change smaller in mobile device.
+1. The text size will become smaller on mobile devices.
 2. The image and video will resize according to the screen size.
-3. The menu bar will stack to each other in mobile device.
+3. The menu bar will stack on each other in mobile devices.
 4. The quantity of cards of all pages will change according to the screen size.
 5. [W3c Mark Up Validation](https://validator.w3.org/)
 6. [W3c CSS Validation](https://jigsaw.w3.org/css-validator/)
@@ -65,7 +65,7 @@ This website will let users to understand the background of COVID-19. Users coul
 11. Compatibility Testing
     1.  Testing was done using Chrom DevTool's Mobile Simulation. The pages, graphics and cards are checked for it's responsiveness to ensure no codes are broken and no layout runs out of the screen.
 12. User Acceptance Testing
-    1.  Interview my family members and friends to know about their user experience.
+    1.  Interviewed my family members and friends to know about their user experience.
 
   Test    | Pass/Fail
 --------- | ---------
@@ -124,8 +124,62 @@ Contact Form | Pass
    * https://www.pinterest.de/pin/700732023262294156/
  * Medical Team in homepage:
    * https://www.pinterest.com/pin/811914639059316577/
+ * Animations:
+   * "contact us" icon at the bottom left of the page:
+     * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_eBcQGa.json
+     * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets3.lottiefiles.com%2Fpackages%2Flf20_abrwmmjr.json
+   * Index.html (loading page):
+     * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets4.lottiefiles.com%2Fprivate_files%2Flf30_V7dVXe.json
+   * Home.html:
+     * Stay home 
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_AxmMba.json
+     * What is COVID-19?
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets6.lottiefiles.com%2Fpackages%2Flf20_AQ3M8U.json
+     * Donation
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets3.lottiefiles.com%2Fpackages%2Flf20_hkvojF.json
+     * Did you know?
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets4.lottiefiles.com%2Fpackages%2Flf20_BjW367.json
+   * Symptoms.html:
+     * Symptoms 
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets1.lottiefiles.com%2Fpackages%2Flf20_ErlWV1.json
+     * Cough
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fpackages%2Flf20_dkljlzky.json
+     * Difficulty breathing 
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets9.lottiefiles.com%2Fpackages%2Flf20_BTOE9j.json
+     * Fever
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_medwe7cs.json
+     * Chills
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets3.lottiefiles.com%2Fprivate_files%2Flf30_SbRrNa.json
+     * Aches
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_lt3hhrbi.json
+     * Vomit
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fprivate_files%2Flf30_Gds1YW.json
+     * Diarrhea
+       *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets5.lottiefiles.com%2Fprivate_files%2Flf30_jHV016.json
+     * loss of taste 
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fpackages%2Flf20_uJrFjo.json
+     * Headache
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_5Gqhew.json
+   * Prevention.html
+     *  Info section 
+        *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fpackages%2Flf20_nmx1GJ.json
+     * Wash your hands
+       *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets1.lottiefiles.com%2Fprivate_files%2Flf30_tCHKkP.json  
+     * Wear a mask
+       *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets1.lottiefiles.com%2Fpackages%2Flf20_wih9yhar.json
+     * Avoid crowds
+       *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets2.lottiefiles.com%2Fpackages%2Flf20_rjgggp7z.json
+     * Banner
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets9.lottiefiles.com%2Fpackages%2Flf20_wv4mTG.json
+   * Statistics.html
+     *  https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets8.lottiefiles.com%2Fprivate_files%2Flf30_vdqxTM.json
+   * Contact.html
+     * Contact 
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets10.lottiefiles.com%2Fpackages%2Flf20_hsswbvtm.json
+     * Loading for “send” button
+       * https://lottiefiles.com/web-player?lottie_url=https%3A%2F%2Fassets9.lottiefiles.com%2Fprivate_files%2Flf30_ASKLIg.json
 
 ### Acknowledgements
 * We received inspiration for this project from the discussion between us.
-* Our family members and friends give suggestions to ours website.
+* Our family members and friends have gave suggestions to ours website.
 
