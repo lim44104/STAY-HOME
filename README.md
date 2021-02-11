@@ -5,7 +5,7 @@ This project is a website application with gamification concepts to let users kn
 
 This website will let users understand the background of COVID-19. Users could know the definition of COVID-19 and the story behind the first case of COVID-19. Users could get to know about the symptoms of COVID-19. And what are these symptoms appear to be like. Users could learn to prevent themselves from COVID-19 with few simple steps. Users could know about the statistic from all countries through an interactive chart. This project will be a useful and fun website application for users to know more about COVID-19.
 
-* As a user, I want to get to know about the definition and details of COVID-19. I want to know about the symptoms, prevention , and statistic of COVID-19. This website allowed me to do so.
+* As a user, I want to get to know the definition and details of COVID-19. I want to know about the symptoms, prevention, and statistic of COVID-19. This website allowed me to do so.
   
 ## Features
 ### Existing Features
@@ -19,7 +19,7 @@ This website will let users understand the background of COVID-19. Users could k
 8. Allows user to  **know the statistic of all countries**.
 9. Allows user to  **know the number of deaths, recovered, and total cases**.
 10. Allows user to  **give feedbacks or suggestions** to improve the website by filling up the contact form.
-11. Allows user to get the **social media account of WHO** such as facebook, instagram, twitter and official website by clicking on the icon in footer.
+11. Allows user to get the **social media account of WHO** such as facebook, instagram, twitter , and the official website by clicking on the icon in footer.
 12. **Responsive Website** - The layout and photo will resize and change according to the users' screen size.
 13. **Collapsible Hamburger Mobile Menu**.
 14. **Validate Contact Form**
@@ -54,8 +54,8 @@ This website will let users understand the background of COVID-19. Users could k
 ## Testing
 1. The text size will become smaller on mobile devices.
 2. The image and video will resize according to the screen size.
-3. The menu bar will stack on each other in mobile devices.
-4. The quantity of cards of all pages will change according to the screen size.
+3. The menu bar will stack on each other on mobile devices.
+4. The number of cards on all pages will change according to the screen size.
 5. [W3c Mark Up Validation](https://validator.w3.org/)
 6. [W3c CSS Validation](https://jigsaw.w3.org/css-validator/)
 7. [JS Hint](https://jshint.com/)
@@ -63,13 +63,13 @@ This website will let users understand the background of COVID-19. Users could k
 9. [Color Contrast Accessibility Validaton](https://color.a11y.com/Contrast/)
 10. [Spell Checking](https://typosaur.us/)
 11. Compatibility Testing
-    1.  Testing was done using Chrom DevTool's Mobile Simulation. The pages, graphics and cards are checked for it's responsiveness to ensure no codes are broken and no layout runs out of the screen.
+    1.  Testing was done using Chrom DevTool's Mobile Simulation. The pages, graphics, and cards are checked for it's responsiveness to ensure no codes are broken and no layout runs out of the screen.
 12. User Acceptance Testing
     1.  Interviewed my family members and friends to know about their user experience.
 
   Test    | Pass/Fail
 --------- | ---------
-Click on link and open in new tab | Pass
+Click on the link and open in new tab | Pass
 Responsive Cards | Pass
 Responsive Nav Bar | Pass
 Responsive Images and Videos | Pass
@@ -83,7 +83,7 @@ Contact Form | Pass
   * Website: https://lim44104.github.io/ID_Assignment03/
   
 ### How to clone this code?
-  * Download this repository code to your own local host.
+  * Download this repository code to your local host.
   * Run it.
   * The code is yours now!
 
@@ -122,7 +122,7 @@ Contact Form | Pass
 * The photos used in this site were obtained from:
  * Logo in Nav Bar: 
    * https://www.pinterest.de/pin/700732023262294156/
- * Medical Team in homepage:
+ * Medical Team on the homepage:
    * https://www.pinterest.com/pin/811914639059316577/
  * Animations:
    * "Contact Us" icon at the bottom left of the page:
@@ -182,5 +182,5 @@ Contact Form | Pass
 
 ### Acknowledgements
 * We received inspiration for this project from the discussion between us.
-* Our family members and friends have gave suggestions to ours website.
+* Our family members and friends have given suggestions to our website.
 
