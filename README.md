@@ -73,9 +73,7 @@ Click on the link and open in new tab | Pass
 Responsive Cards | Pass
 Responsive Nav Bar | Pass
 Responsive Images and Videos | Pass
-Failed API Call Error Alert | Pass
-Contact Form | Pass
-
+Validate Contact Form | Pass
 
 ## Deployment
 ### Github link
@@ -83,10 +81,9 @@ Contact Form | Pass
   * Website: https://lim44104.github.io/ID_Assignment03/
   
 ### How to clone this code?
-  * Download this repository code to your local host.
+  * Download or Copy this repository code to your local host.
   * Run it.
   * The code is yours now!
-
   
 
 ## Credits
