@@ -1,15 +1,5 @@
 @charset "UTF-8";
-/*!
-* Start Bootstrap - Freelancer v6.0.5 (https://startbootstrap.com/theme/freelancer)
-* Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
-*/
-/*!
- * Bootstrap v4.5.3 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+/*Bootstrap*/
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -10150,6 +10140,8 @@ h3 {
     font-size: 1.5rem;
   }
 }
+
+/*portfolio style*/
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
@@ -10240,6 +10232,7 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef;
 }
 
+/*footer*/
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -10247,10 +10240,12 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
 }
 
+/*copyright*/
 .copyright {
   background-color: #1a252f;
 }
 
+/*set animation to center*/
 .animation-center{  display: flex;
   justify-content: center;
   align-items: center;
@@ -10262,6 +10257,7 @@ form .row:first-child .floating-label-form-group {
   align-items: left;
  }
 
+ /*loading page*/
 .loading-text{
     display: block;
     margin: 0 auto;
@@ -10272,12 +10268,14 @@ form .row:first-child .floating-label-form-group {
     font-family: 'Libre Baskerville', serif;
 }
 
+/*set contact lottie position*/
 .bottomleft {
   position:fixed;
   bottom: 5px;
   left: 5px;
 }
 
+/*scroll bar*/
 /* width */
 ::-webkit-scrollbar {
   width: 12px;

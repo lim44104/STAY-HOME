@@ -75,7 +75,6 @@
                             <!-- Contact Section Form-->
                             <div class="row">
                                 <div class="col-lg-12 mx-auto">
-                                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19.-->
                                     <form id="contactForm" name="sentMessage" action="https://formspree.io/f/mpzonkza" method="POST">
                                         <div class="control-group">
                                             <div class="form-group floating-label-form-group controls mb-0 pb-2">
@@ -179,7 +178,7 @@
         <script src="assets/js/scripts.js"></script>
         <script src="assets/js/contact.js"></script>
         <script>
-            $(document).ready(function (){
+            $(document).ready(function (){  //validate contact form && alert user about invalid info
                 $('.submit').click(function (event){
                     var name = $('.name').val()
                     var email = $('.email').val()
