@@ -230,7 +230,7 @@ function createCountryList(){
             ${country.name}
             </li>
         `;
-    })
+    });
 }
 
 let num_of_ul_lists = 3;
@@ -263,12 +263,12 @@ country_input.addEventListener("input", function(){
         }else{
             document.getElementById(country.name).classList.add("hide");
         }
-    })
-})
+    });
+});
 
 // RESET COUNTRY LIST (SHOW ALL THE COUNTRIES )
 function resetCountryList(){
     country_list.forEach( country => {
         document.getElementById(country.name).classList.remove("hide");
-    })
+    });
 }
