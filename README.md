@@ -60,10 +60,10 @@ This website will let users understand the background of COVID-19. Users could k
 6. [W3c CSS Validation](https://jigsaw.w3.org/css-validator/)
 7. [JS Hint](https://jshint.com/)
 8. [W3C Link Checking](https://validator.w3.org/checklink)
-9. [Color Contrast Accessibility Validaton](https://color.a11y.com/Contrast/)
+9. [Color Contrast Accessibility Validation](https://color.a11y.com/Contrast/)
 10. [Spell Checking](https://typosaur.us/)
 11. Compatibility Testing
-    1.  Testing was done using Chrom DevTool's Mobile Simulation. The pages, graphics, and cards are checked for it's responsiveness to ensure no codes are broken and no layout runs out of the screen.
+    1.  Testing was done using Chrome DevTool's Mobile Simulation. The pages, graphics, and cards are checked for it's responsiveness to ensure no codes are broken and no layout runs out of the screen.
 12. User Acceptance Testing
     1.  Interviewed my family members and friends to know about their user experience.
 
