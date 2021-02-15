@@ -80,7 +80,7 @@ Validate Contact Form | Pass
   * Repository: https://github.com/lim44104/ID_Assignment03
   * Website: https://lim44104.github.io/ID_Assignment03/
   * Pitch:
-  [![Watch the video]](https://drive.google.com/file/d/1nYUqK_k5yY5xIgGo2OSEh8NVUIvgwSfn/view?usp=sharing)
+  [![Watch the video](assets/image/thumbnail.png)](https://drive.google.com/file/d/1nYUqK_k5yY5xIgGo2OSEh8NVUIvgwSfn/view?usp=sharing)
   
 ### How to clone this code?
   * Download or Copy this repository code to your local host.
