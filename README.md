@@ -81,6 +81,7 @@ Validate Contact Form | Pass
   * Website: https://lim44104.github.io/ID_Assignment03/
   * Pitch:
   [![Watch the video](assets/image/thumbnail.png)](https://drive.google.com/file/d/1nYUqK_k5yY5xIgGo2OSEh8NVUIvgwSfn/view?usp=sharing)
+  Click to watch the demo video^^^
   
 ### How to clone this code?
   * Download or Copy this repository code to your local host.
