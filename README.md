@@ -1,6 +1,14 @@
 # ID_Assignment03
 This project is a website application with gamification concepts to let users know more about COVID-19 and make a fun experience for users.
 
+## Deployment
+### Github link
+  * Repository: https://github.com/lim44104/ID_Assignment03
+  * Website: https://lim44104.github.io/ID_Assignment03/
+  * Pitch:
+  [![Watch the video](assets/image/thumbnail.png)](https://drive.google.com/file/d/1nYUqK_k5yY5xIgGo2OSEh8NVUIvgwSfn/view?usp=sharing)
+  Click to watch the demo video^^^
+
 ## Design Process
 
 This website will let users understand the background of COVID-19. Users could know the definition of COVID-19 and the story behind the first case of COVID-19. Users could get to know about the symptoms of COVID-19. And what are these symptoms appear to be like. Users could learn to prevent themselves from COVID-19 with few simple steps. Users could know about the statistic from all countries through an interactive chart. This project will be a useful and fun website application for users to know more about COVID-19.
@@ -74,14 +82,6 @@ Responsive Cards | Pass
 Responsive Nav Bar | Pass
 Responsive Images and Videos | Pass
 Validate Contact Form | Pass
-
-## Deployment
-### Github link
-  * Repository: https://github.com/lim44104/ID_Assignment03
-  * Website: https://lim44104.github.io/ID_Assignment03/
-  * Pitch:
-  [![Watch the video](assets/image/thumbnail.png)](https://drive.google.com/file/d/1nYUqK_k5yY5xIgGo2OSEh8NVUIvgwSfn/view?usp=sharing)
-  Click to watch the demo video^^^
   
 ### How to clone this code?
   * Download or Copy this repository code to your local host.
