@@ -3,8 +3,8 @@ This project is a website application with gamification concepts to let users kn
 
 ## Deployment
 ### Github link
-  * Repository: https://github.com/lim44104/ID_Assignment03
-  * Website: https://lim44104.github.io/ID_Assignment03/
+  * Repository: https://github.com/lim44104/STAY-HOME
+  * Website: https://lim44104.github.io/STAY-HOME/
   * Pitch:
   [![Watch the video](assets/image/thumbnail.png)](https://drive.google.com/file/d/1nYUqK_k5yY5xIgGo2OSEh8NVUIvgwSfn/view?usp=sharing)
   Click to watch the demo video^^^
